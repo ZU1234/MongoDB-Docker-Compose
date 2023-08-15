@@ -21,7 +21,7 @@ Projenin geliştirilmesi ve çalıştırılmasının kolay olmasını sağlamak 
 - Spring Data MongoDB: MongoDB veritabanına erişimi yönetmek için Spring Data MongoDB kullanımı.
 - Docker Desteği: Projeyi Docker kullanarak hızlı ve tekrarlanabilir bir şekilde başlatma ve çalıştırma desteği.
 
-[Neden MongoDB ve Docker Compose kullandık?](/spring-mongo-rest-api/why.md)
+[Neden MongoDB ve Docker Compose kullandık?](https://github.com/ZU1234/MongoDB-Docker-Compose/blob/main/why.md)
 
 <h3>Proje Başlatma:</h3>
 
@@ -70,7 +70,7 @@ Bu adımları takip ederek, projenizin içindeki Docker Compose dosyasıyla beli
 
 Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 
-- :rocket: **Spring Boot**: Modern ve hızlı bir Java framework'üdür. Web uygulamalarını geliştirmek için kullanılmıştır.
+- **Spring Boot**: Modern ve hızlı bir Java framework'üdür. Web uygulamalarını geliştirmek için kullanılmıştır.
 - **Spring Data MongoDB**: MongoDB veritabanına erişimi kolaylaştıran Spring modülüdür. Veritabanı işlemleri için kullanılmıştır.
 - **Spring Web**: Web tabanlı uygulamalar geliştirmek için Spring tarafından sağlanan modüldür. API'leri oluşturmak için kullanılmıştır.
 - **MongoDB**: NoSQL veritabanıdır. Kullanıcı verilerini saklamak ve yönetmek için kullanılmıştır.
@@ -80,8 +80,7 @@ Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 Bu projede Java 11 kullanılmıştır.
 
 Bu teknolojiler projenin etkili bir şekilde geliştirilmesi, çalıştırılması ve yönetilmesini sağlar.
-<center>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="100" height="100">
+<center><p><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="100" height="100">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" width="100" height="100">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,5 +88,4 @@ Bu teknolojiler projenin etkili bir şekilde geliştirilmesi, çalıştırılmas
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="100" height="100">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker-compose/docker-compose.png" width="100" height="100">
-</center>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker-compose/docker-compose.png" width="100" height="100"></p></center>
