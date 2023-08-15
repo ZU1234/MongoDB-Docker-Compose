@@ -1,6 +1,5 @@
 <center><h1>MongoDB - Docker Compose</h1></center>
 
-<h3>Açıklama:</h3>
 Modern bir Spring Boot uygulaması olarak tasarlanmış ve MongoDB veritabanını kullanarak bir RESTful API sunan bir uygulamayı hedeflemektedir. Bu projenin amacı, bir kullanıcı veritabanı üzerinde temel CRUD (Create, Read, Update, Delete) işlemleri sağlayan ve bu işlemlere HTTP istekleri ile erişim sağlayan bir RESTful API oluşturmaktır.
 
 
